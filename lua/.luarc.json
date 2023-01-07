@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
+    "Lua.workspace.checkThirdParty": false,
+    "Lua.workspace.library": [
+        "C:\\Users\\zs987\\AppData\\Local\\nvim",
+        "C:\\Users\\zs987\\AppData\\Local\\nvim-data\\site",
+        "C:\\Users\\zs987\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\mason-lspconfig.nvim",
+        "C:\\Users\\zs987\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\mason.nvim",
+        "C:\\Users\\zs987\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\nvim-lspconfig",
+        "C:\\Users\\zs987\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\packer.nvim",
+        "C:\\Users\\zs987\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\tokyonight.nvim",
+        "F:\\Program Files\\Neovim\\share\\nvim\\runtime",
+        "F:\\Program Files\\Neovim\\lib\\nvim",
+        "${3rd}/luassert/library"
+    ]
+}
