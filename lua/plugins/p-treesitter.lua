@@ -15,13 +15,7 @@ require('nvim-treesitter.configs').setup{
     },
     autotag = {
         enable = true,
-    }
-}
-
-require("nvim-treesitter.configs").setup {
-  highlight = {
-      -- ...
-  },
+    },
   -- ...
   rainbow = {
     enable = true,
